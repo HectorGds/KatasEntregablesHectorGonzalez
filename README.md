@@ -1,2 +1,2 @@
 # KatasEntregablesHectorGonzalez
-Katas realizadas durante el OnBboarding del programa Launch X 
+Katas realizadas durante el OnBoarding del programa Launch X 
